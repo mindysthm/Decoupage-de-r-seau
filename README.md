@@ -17,8 +17,8 @@ Méthode asymétrique
 |         | Adresse réseau          | Adresse de brodcast | Adresse de début de plage | Adresse de fin de plage
 | :--------------- |:---------------:| -----:| -----:| -----:|
 |Pole informatique  |  172.16.1.0/26       |  172.16.1.63 | 172.16.1.1 | 172.16.1.62
-|Pole administratif  |172.16.1.64/31            |  172.16.1.95 | 172.16.1.65 | 172.16.1.94
-| Pole technicien  | 172.16.1.96/41          |    172.16.1.127 | 172.16.1.97 | 172.16.1.126
+|Pole administratif  |172.16.1.64/27           |  172.16.1.95 | 172.16.1.65 | 172.16.1.94
+| Pole technicien  | 172.16.1.96/27          |    172.16.1.127 | 172.16.1.97 | 172.16.1.126
 | Pole dev   | 172.16.1.128/28      |    172.16.1.143 | 172.16.1.129| 172.16.1.142
 
 On cherche en premier le nombre d'hôte pour chaque département de la liste ci-dessus :
